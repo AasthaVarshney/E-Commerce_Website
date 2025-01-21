@@ -38,7 +38,7 @@ The website's front-end is built with JSP, ensuring dynamic content generation a
     - See schema.sql
 ## Installation & Setup
 ### 1.Clone the repository:
-    git clone https://github.com/Himanshu2k24/E-Commerce_Web.git 
+    git clone https://github.com/AasthaVarshney/E-Commerce_Website.git
 ### 2.Configure database connection:
      -  Open src/main/java/com/user/dao/UserDao.java 
      -  Update the database URL, username, and password in other DAO classes
