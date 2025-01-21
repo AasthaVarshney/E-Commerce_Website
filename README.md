@@ -84,3 +84,14 @@ This repository hosts the code for a Java e-commerce Website. This application a
    │   │ └── java/
    ├── pom.xml
    └── README.md
+
+
+![Image](https://github.com/user-attachments/assets/49432c78-48e7-4dc9-89d9-3cfa95db6302)
+![Image](https://github.com/user-attachments/assets/a32f64b0-61c7-4e0c-a8c7-f72b7e5e480a)
+![Image](https://github.com/user-attachments/assets/00441cc2-a11f-4e84-975f-80a4463ffa0a)
+![Image](https://github.com/user-attachments/assets/68a98b70-51ed-4ddd-9f80-1a14d1bec14e)
+![Image](https://github.com/user-attachments/assets/8f679a94-e821-464d-89a6-abae6dc86070)
+![Image](https://github.com/user-attachments/assets/a2f33d01-f3ea-47e8-81ce-8552dfaf5a3c)
+![Image](https://github.com/user-attachments/assets/b6973d73-e2cc-4d8d-9619-00e9ad10d46f)
+
+![Image](https://github.com/user-attachments/assets/a446230d-f94f-412c-b323-b25131b6c326)
