@@ -1,5 +1,5 @@
 # E-Commerce Website
-This repository hosts the code for a Java e-commerce Website. This application allows users to browse products, manage their carts, and securely place orders online. The project follows a structured MVC architecture, ensuring scalability and maintainability. Built using Java Servlets, JSP, and MySQL, it provides a seamless shopping experience.
+The website's front-end is built with JSP, ensuring dynamic content generation and a responsive user interface. The back-end leverages Java Servlets to handle business logic, while MySQL serves as the database for storing product information, user details, and order records. This combination of technologies ensures robust performance and a smooth user experience. The platform also incorporates security measures, such as encrypted connections and secure payment processing, to protect user data and transactions.
 ## Features
 - Register new account
 - Login/Logout
