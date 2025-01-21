@@ -94,5 +94,17 @@ This repository hosts the code for a Java e-commerce Website. This application a
 ```
 
 ## 📸 Screenshot
+### All Test Case Passed
+![Test Case](https://github.com/user-attachments/assets/a446230d-f94f-412c-b323-b25131b6c326)
 ### Index Page
-![Index Page](https://github.com/user-attachments/assets/49432c78-48e7-4dc9-89d9-3cfa95db6302)
+![Index Page](https://github.com/user-attachments/assets/a32f64b0-61c7-4e0c-a8c7-f72b7e5e480a)
+### Register Page
+![Register Page](https://github.com/user-attachments/assets/00441cc2-a11f-4e84-975f-80a4463ffa0a)
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/68a98b70-51ed-4ddd-9f80-1a14d1bec14e)
+### Cart Page
+![Cart Page](https://github.com/user-attachments/assets/8f679a94-e821-464d-89a6-abae6dc86070)
+### Payment Page
+![Payment Page](https://github.com/user-attachments/assets/a2f33d01-f3ea-47e8-81ce-8552dfaf5a3c)
+### Payment Confirmation Page
+![Payment Confirmation Page](https://github.com/user-attachments/assets/49432c78-48e7-4dc9-89d9-3cfa95db6302)
